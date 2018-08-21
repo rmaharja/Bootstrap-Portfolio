@@ -69,8 +69,6 @@ a{
 border-style: solid;
 border-color: #dddddd;
 
-  
-
 }
 
 #header{
@@ -186,7 +184,7 @@ px;
 }
 .card-title{
   width:255px;
-  background-color:#4aaaa5 ;
+  background-color:#4aaaa5;
   border-style: none;
   height: 60px;
   text-align: center;
@@ -195,4 +193,19 @@ px;
   font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+#word{
+  color: white;
+}
+#rpg{
+  color: white;
+}
 
+#widget{
+  color: white;
+
+}
+
+#rock{
+  color: white;
+
+}
